@@ -32,7 +32,7 @@ const EliteFeatures = () => {
           <HexagonChart />
 
           <div
-            className="absolute w-1/2 h-1/2 bg-gradient-to-br from-brown-50 to-white flex items-center justify-center z-10"
+            className="absolute w-1/2 h-1/2 bg-gradient-to-br from-brown-50 to-white flex items-center justify-center z-10 -translate-y-2 drop-shadow-xl"
             style={{ clipPath: 'polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)' }}
           >
             <img
