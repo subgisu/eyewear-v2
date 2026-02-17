@@ -7,7 +7,7 @@ const IMAGES = [
 ];
 
 const Gallery = () => (
-  <Section className="bg-ivory">
+<Section className="bg-ivory !py-12 md:!py-16">
     <div className="flex justify-center items-center gap-8 md:gap-16">
       {IMAGES.map((img, i) => (
         <div
