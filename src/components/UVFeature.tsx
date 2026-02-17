@@ -11,7 +11,7 @@ const UVFeature = () => {
           <div className="order-2 md:order-1 relative">
             <div className="relative overflow-hidden aspect-square max-w-md mx-auto">
               <img
-                src="/eyewear-v2/images2/sunshine.png"
+               src="/eyewear-v2/images/sunshine.png"
                 alt="UV400 렌즈를 통해 본 선명한 시야"
                 className="w-full h-full object-cover opacity-60"
               />
