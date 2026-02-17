@@ -12,7 +12,7 @@ const Gallery = () => (
       {IMAGES.map((img, i) => (
         <div
           key={i}
-         className="w-40 h-40 md:w-64 md:h-64 rounded-full overflow-hidden border-2 border-brown-200 shadow-lg"
+         className="w-20 h-20 md:w-72 md:h-72 rounded-full overflow-hidden border-2 border-brown-200 shadow-lg"
         >
           <img
             src={img.src}
