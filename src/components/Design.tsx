@@ -20,7 +20,7 @@ const Design = () => {
           <div key={idx} className="flex flex-col">
             <div className="aspect-[3/4] overflow-hidden bg-sand/20">
               <img
-                src={`https://picsum.photos/500/700?random=${idx + 10}`}
+                src={`/eyewear-v2/images/point1.png=${idx + 10}`}
                 alt={`디자인 디테일 ${idx + 1}`}
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
               />
