@@ -31,7 +31,7 @@ const EliteFeatures = () => {
         <div className="relative max-w-xl mx-auto aspect-square hidden md:flex items-center justify-center">
           <HexagonChart />
 
-         <div className="absolute w-44 h-44 rounded-full bg-white shadow-2xl flex items-center justify-center z-10 -translate-y-3">
+         <div className="absolute w-54 h-54 rounded-full bg-white shadow-2xl flex items-center justify-center z-10 -translate-y-3">
             <img
               src="/eyewear-v2/images/Product.png"
               alt="MIRI Eyewear 제품 중심 이미지"
