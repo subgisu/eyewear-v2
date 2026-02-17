@@ -33,7 +33,7 @@ const EliteFeatures = () => {
 
          <div className="absolute w-44 h-44 rounded-full bg-white shadow-2xl flex items-center justify-center z-10 -translate-y-3">
             <img
-              src="/eyewear-v2/images/eyewear_1.jpg"
+              src="/eyewear-v2/images/Product.png"
               alt="MIRI Eyewear 제품 중심 이미지"
               className="w-28 h-28 object-contain"
             />
