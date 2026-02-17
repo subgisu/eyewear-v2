@@ -37,7 +37,7 @@ const Weight = () => {
           <div className="relative">
             <div className="absolute inset-0 bg-brown-900/5 transform translate-x-4 translate-y-4" />
             <img
-           src="/eyewear-v2/images/stylish-woman.png"
+           src="/eyewear-v2/images/stylishwoman.png"
               alt="25g 초경량 선글라스 착용 이미지"
               className="relative w-full max-w-md grayscale hover:grayscale-0 transition-all duration-700 ease-in-out shadow-xl"
             />
