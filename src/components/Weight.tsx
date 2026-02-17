@@ -10,7 +10,7 @@ const Weight = () => {
       <div className="absolute top-0 right-0 w-1/3 h-full bg-sand/10 skew-x-12 transform origin-top-right" />
 
       <div className="relative z-10 flex flex-col md:flex-row items-start md:items-center justify-between gap-16">
-       <div className="w-full md:w-1/2 md:pl-16 lg:pl-24">
+       <div className="w-full md:w-1/2 md:pl-20 lg:pl-30">
           <div className="inline-flex items-center gap-2 border border-brown-200 rounded-full px-4 py-1 mb-8">
             <Feather size={16} className="text-brown-600" />
             <span className="text-xs tracking-widest uppercase text-brown-600">Ultra Light</span>
