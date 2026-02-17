@@ -31,17 +31,13 @@ const EliteFeatures = () => {
         <div className="relative max-w-xl mx-auto aspect-square hidden md:flex items-center justify-center">
           <HexagonChart />
 
-          <div
-            className="absolute w-1/2 h-1/2 bg-gradient-to-br from-brown-50 to-white flex items-center justify-center z-10 -translate-y-2 drop-shadow-xl"
-            style={{ clipPath: 'polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)' }}
-          >
+         <div className="absolute w-44 h-44 rounded-full bg-white shadow-2xl flex items-center justify-center z-10 -translate-y-3">
             <img
-              src="/eyewear-v2/images/Product.png"
+              src="/eyewear-v2/images/eyewear_1.jpg"
               alt="MIRI Eyewear 제품 중심 이미지"
-              className="w-3/4 h-auto object-contain mix-blend-multiply"
+              className="w-28 h-28 object-contain"
             />
           </div>
-
           {/* Vertex dots */}
           <div className="absolute inset-0 z-10 pointer-events-none">
             <svg viewBox="0 0 100 100" className="w-full h-full fill-white stroke-brown-600" strokeWidth="1">
