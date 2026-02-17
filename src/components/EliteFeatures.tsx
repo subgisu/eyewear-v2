@@ -36,7 +36,7 @@ const EliteFeatures = () => {
             style={{ clipPath: 'polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)' }}
           >
             <img
-              src="https://picsum.photos/400/300?grayscale"
+              src="/eyewear-v2/images/Product.png"
               alt="MIRI Eyewear 제품 중심 이미지"
               className="w-3/4 h-auto object-contain mix-blend-multiply"
             />
