@@ -9,7 +9,7 @@ const LABEL_TRANSFORM = [
   'translate(-50%, -120%)',
   'translate(10%, -50%)',
   'translate(10%, -50%)',
-  'translate(-50%, 20%)',
+  'translate(-50%, 20%)',아
   'translate(-110%, -50%)',
   'translate(-110%, -50%)',
 ];
@@ -30,12 +30,18 @@ const EliteFeatures = () => {
         {/* Desktop — Hexagon */}
         <div className="relative max-w-xl mx-auto aspect-square hidden md:flex items-center justify-center">
           <HexagonChart />
-          <div className="absolute w-44 h-44 rounded-full bg-white shadow-2xl flex items-center justify-center z-10 -translate-y-3">
+       <div className="absolute w-44 h-44 rounded-full bg-white shadow-2xl flex items-center justify-center z-10 -translate-y-3">
+
             <img
+
               src="/eyewear-v2/images/Product.png"
+
               alt="MIRI Eyewear 제품 중심 이미지"
+
               className="w-28 h-28 object-contain"
+
             />
+
           </div>
           {/* Vertex dots */}
           <div className="absolute inset-0 z-10 pointer-events-none">
