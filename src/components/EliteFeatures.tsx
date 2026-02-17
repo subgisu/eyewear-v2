@@ -9,7 +9,7 @@ const LABEL_TRANSFORM = [
   'translate(-50%, -120%)',
   'translate(10%, -50%)',
   'translate(10%, -50%)',
-  'translate(-50%, 20%)',아
+  'translate(-50%, 20%)',
   'translate(-110%, -50%)',
   'translate(-110%, -50%)',
 ];
